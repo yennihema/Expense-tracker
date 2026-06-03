@@ -1,7 +1,8 @@
+alert"(JavaScript Loaded")
 let total = 0;
 
 function addExpense(){
-
+aleet("button  clicked");
   let name = document.getElementById("name").value;
 
   let amount = Number(document.getElementById("amount").value);
